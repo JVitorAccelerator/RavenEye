@@ -1,4 +1,4 @@
-# WebScanner
+# RavenEye
 
 Projeto de estudo para entender fundamentos de segurança com aplicações Web.
 

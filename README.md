@@ -1,11 +1,9 @@
 # RavenEye
 
-Projeto de estudo para entender fundamentos de segurança com aplicações Web.
+A simple Python web scanner project with educational focus on targeting OWASP Top 10 (2025) web security risks.
 
-## Objetivo
-
-Implementar um mini analisador automatizado de vulnerabilidades web em Python.
-
+## Objective
+RavenEye is designed as a scanner to detect and help study of common web vulnerabilities according to the OWASP Top 10 (2025).
 
 - A01:2025 - Broken Access Control
 - A02:2025 - Security Misconfiguration
@@ -18,4 +16,11 @@ Implementar um mini analisador automatizado de vulnerabilidades web em Python.
 - A09:2025 - Security Logging and Alerting Failures
 - A10:2025 - Mishandling of Exceptional Conditions
 
-Baseado na metodologia OWASP Top 10.
+## Project Status
+
+- Version 1.0.0 in development
+
+## Notes
+
+- Intended as an experiment; all usage is for testing your own environments.
+
